@@ -8,18 +8,16 @@ Created on Sun Mar 21 09:22:31 2021
 from bs4 import BeautifulSoup
 import requests
 
-url = "https://geeksgod.com/category/freecoupons/udemy-courses-free/"
+url = "https://insidelearn.com/courses/all"
 
 def parserURL(url=""):
     req = requests.get(url)
     return BeautifulSoup(req.content, 'html.parser')
 
 soup = parserURL(url)
-allsoupcourse = soup.findAll('h3',{'class':'entry-title td-module-title'})
+allsoupcourse = soup.findAll('div',{'class':'job-title'})
 
 for item in allsoupcourse:
     linktovisit = item.find('a')['href']
-    print(linktovisit)
-    #content = parserURL(linktovisit)
-    #print(content.find('a',{'class':'btn btn-purplex btn-effect mt15 mb5'})['href'])
-    #(content)
+    content = parserURL(linktovisit)
+    print(content.find('a',{'class':'btn btn-purplex btn-effect mt15 mb5'})['href'])
