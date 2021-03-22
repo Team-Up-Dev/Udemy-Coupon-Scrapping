@@ -1,6 +1,156 @@
 {
     "udemy": [
         {
+            "course": "SQL- The Complete Introduction to SQL programming",
+            "URL": "https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/",
+            "coupon": "C9A823F43A86990D50B4",
+            "fullUrl": "https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/?couponCode=C9A823F43A86990D50B4"
+        },
+        {
+            "course": "The Complete Introduction to C++ Programming",
+            "URL": "https://www.udemy.com/course/the-complete-introduction-to-c-programming/",
+            "coupon": "C8001882AC8375593C41",
+            "fullUrl": "https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=C8001882AC8375593C41"
+        },
+        {
+            "course": "Psychology of Images – 5x your profit by image that engage",
+            "URL": "https://www.udemy.com/course/the-psychology-of-images/",
+            "coupon": "B5EE446005BB626D2CF4",
+            "fullUrl": "https://www.udemy.com/course/the-psychology-of-images/?couponCode=B5EE446005BB626D2CF4"
+        },
+        {
+            "course": "Microsoft Excel Functions, Formulas, Analysis, & Dashboards",
+            "URL": "https://www.udemy.com/course/getting-started-with-microsoft-excel/",
+            "coupon": "F883E69D846EA191E55A",
+            "fullUrl": "https://www.udemy.com/course/getting-started-with-microsoft-excel/?couponCode=F883E69D846EA191E55A"
+        },
+        {
+            "course": "Learn 4 Steps to Make Money Online with Affiliate Marketing!",
+            "URL": "https://www.udemy.com/course/make-money-with-affiliate-marketing-online/",
+            "coupon": "B8D53B986891F481179A",
+            "fullUrl": "https://www.udemy.com/course/make-money-with-affiliate-marketing-online/?couponCode=B8D53B986891F481179A"
+        },
+        {
+            "course": "Time Series Analysis Real World Projects in Python",
+            "URL": "https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/",
+            "coupon": "MARCH_MID",
+            "fullUrl": "https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/?couponCode=MARCH_MID"
+        },
+        {
+            "course": "Python programming Bible – From Beginner to Advanced",
+            "URL": "https://www.udemy.com/course/python-programming-bible-from-beginner-to-advanced/",
+            "coupon": "SEPT2020",
+            "fullUrl": "https://www.udemy.com/course/python-programming-bible-from-beginner-to-advanced/?couponCode=SEPT2020"
+        },
+        {
+            "course": "Time Management And Goal Planning: The Productivity Combo",
+            "URL": "https://www.udemy.com/course/time-management-and-productivity/",
+            "coupon": "082F86CC0C262BC50AF2",
+            "fullUrl": "https://www.udemy.com/course/time-management-and-productivity/?couponCode=082F86CC0C262BC50AF2"
+        },
+        {
+            "course": "Machine Learning & Deep Learning in Python & R",
+            "URL": "https://www.udemy.com/course/data_science_a_to_z/",
+            "coupon": "MARXX21",
+            "fullUrl": "https://www.udemy.com/course/data_science_a_to_z/?couponCode=MARXX21"
+        },
+        {
+            "course": "Build an API from scratch with Python, Django, SQLite3",
+            "URL": "https://www.udemy.com/course/build-an-api-from-scratch-with-python-django-sqlite3/",
+            "coupon": "57D5BC0298331AE77EFF",
+            "fullUrl": "https://www.udemy.com/course/build-an-api-from-scratch-with-python-django-sqlite3/?couponCode=57D5BC0298331AE77EFF"
+        },
+        {
+            "course": "Object Oriented Programming for beginners – Using Python",
+            "URL": "https://www.udemy.com/course/object-oriented-programming-for-beginners-using-python/",
+            "coupon": "5F54812B1067BEF049C2",
+            "fullUrl": "https://www.udemy.com/course/object-oriented-programming-for-beginners-using-python/?couponCode=5F54812B1067BEF049C2"
+        },
+        {
+            "course": "Build 10 Java Beginner Projects from scratch",
+            "URL": "https://www.udemy.com/course/build-10-java-beginner-projects-from-scratch/",
+            "coupon": "A047C5E573C1AB15E725",
+            "fullUrl": "https://www.udemy.com/course/build-10-java-beginner-projects-from-scratch/?couponCode=A047C5E573C1AB15E725"
+        },
+        {
+            "course": "Learn How To Build A Shopify Online Store From Scratch",
+            "URL": "https://www.udemy.com/course/learn-how-to-build-a-shopify-online-store-from-scratch/",
+            "coupon": "1A60076747818FF66825",
+            "fullUrl": "https://www.udemy.com/course/learn-how-to-build-a-shopify-online-store-from-scratch/?couponCode=1A60076747818FF66825"
+        },
+        {
+            "course": "SQL CRUD Operations with PostgreSQL",
+            "URL": "https://www.udemy.com/course/sql-crud-operations-with-postgresql/",
+            "coupon": "5F20C9D0DF00A7AAC644",
+            "fullUrl": "https://www.udemy.com/course/sql-crud-operations-with-postgresql/?couponCode=5F20C9D0DF00A7AAC644"
+        },
+        {
+            "course": "Querying Microsoft SQL Server Data with Transact-SQL",
+            "URL": "https://www.udemy.com/course/querying-microsoft-sql-server-data-with-transact-sql/",
+            "coupon": "B3E0848257151F004F7F",
+            "fullUrl": "https://www.udemy.com/course/querying-microsoft-sql-server-data-with-transact-sql/?couponCode=B3E0848257151F004F7F"
+        },
+        {
+            "course": "SQL Server Database Engine For Beginners",
+            "URL": "https://www.udemy.com/course/sql-server-database-engine-for-beginners/",
+            "coupon": "056AC6567C8F90E17AFB",
+            "fullUrl": "https://www.udemy.com/course/sql-server-database-engine-for-beginners/?couponCode=056AC6567C8F90E17AFB"
+        },
+        {
+            "course": "Python and Data Science for beginners",
+            "URL": "https://www.udemy.com/course/introduction-to-data-science-with-python-for-beginners/",
+            "coupon": "74471B7CBBD70C8EC70A",
+            "fullUrl": "https://www.udemy.com/course/introduction-to-data-science-with-python-for-beginners/?couponCode=74471B7CBBD70C8EC70A"
+        },
+        {
+            "course": "Data Visualization with : BI ,SQL Server PostgreSQL, Excel",
+            "URL": "https://www.udemy.com/course/data-visualization-with-bi-sql-server-postgresql-excel/",
+            "coupon": "333CB6D29FA03CA253DD",
+            "fullUrl": "https://www.udemy.com/course/data-visualization-with-bi-sql-server-postgresql-excel/?couponCode=333CB6D29FA03CA253DD"
+        },
+        {
+            "course": "PHP & MySQL – Certification Course for Beginners",
+            "URL": "https://www.udemy.com/course/php-mysql-certification-course-for-beginners/",
+            "coupon": "YOUACCEL22983",
+            "fullUrl": "https://www.udemy.com/course/php-mysql-certification-course-for-beginners/?couponCode=YOUACCEL22983"
+        },
+        {
+            "course": "Anti-Money Laundering Concepts: AML, KYC and Compliance",
+            "URL": "https://www.udemy.com/course/anti-money-laundering-aml-kyc/",
+            "coupon": "AMLMARCHXIX",
+            "fullUrl": "https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLMARCHXIX"
+        },
+        {
+            "course": "Sell Photo Online: Beginners Guide Stock Photography",
+            "URL": "https://www.udemy.com/course/mastering-stock-photography-step-by-step-guideline/",
+            "coupon": "STOCKPMARCH2021",
+            "fullUrl": "https://www.udemy.com/course/mastering-stock-photography-step-by-step-guideline/?couponCode=STOCKPMARCH2021"
+        },
+        {
+            "course": "Learn CSS – For Beginners",
+            "URL": "https://www.udemy.com/course/learn-css-for-beginners/",
+            "coupon": "YOUACCEL22983",
+            "fullUrl": "https://www.udemy.com/course/learn-css-for-beginners/?couponCode=YOUACCEL22983"
+        },
+        {
+            "course": "CSS & JavaScript – Certification Course for Beginners",
+            "URL": "https://www.udemy.com/course/css-javascript-certification-course-for-beginners/",
+            "coupon": "YOUACCEL22983",
+            "fullUrl": "https://www.udemy.com/course/css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL22983"
+        },
+        {
+            "course": "Learn HTML – For Beginners",
+            "URL": "https://www.udemy.com/course/learn-html-for-beginners/",
+            "coupon": "YOUACCEL22983",
+            "fullUrl": "https://www.udemy.com/course/learn-html-for-beginners/?couponCode=YOUACCEL22983"
+        },
+        {
+            "course": "Learn JavaScript – For Beginners",
+            "URL": "https://www.udemy.com/course/learn-javascript-for-beginners-v/",
+            "coupon": "YOUACCEL22983",
+            "fullUrl": "https://www.udemy.com/course/learn-javascript-for-beginners-v/?couponCode=YOUACCEL22983"
+        },
+        {
             "course": "Learn jQuery – For Beginners",
             "URL": "https://www.udemy.com/course/learn-jquery-for-beginners/",
             "coupon": "YOUACCEL22983",
@@ -95,6 +245,816 @@
             "URL": "https://www.udemy.com/course/how-to-do-flat-design-for-social-media-marketing-in-canva/",
             "coupon": "571D2F6F9651054FA8DC",
             "fullUrl": "https://www.udemy.com/course/how-to-do-flat-design-for-social-media-marketing-in-canva/?couponCode=571D2F6F9651054FA8DC"
+        },
+        {
+            "course": "The SQL MicroDegree 2021: From SQL Basics To Advanced SQL",
+            "URL": "https://www.udemy.com/course/sqlmicrodegree/",
+            "coupon": "SQLMICRODEGREE",
+            "fullUrl": "https://www.udemy.com/course/sqlmicrodegree/?couponCode=SQLMICRODEGREE"
+        },
+        {
+            "course": "Agile Kanban: Kanban for Software Development Teams",
+            "URL": "https://www.udemy.com/course/agile-kanban/",
+            "coupon": "KANBANMARCHVIII",
+            "fullUrl": "https://www.udemy.com/course/agile-kanban/?couponCode=KANBANMARCHVIII"
+        },
+        {
+            "course": "Learn Photo Editing with Photoshop 2020",
+            "URL": "",
+            "coupon": "TRY10FREE23105",
+            "fullUrl": "?couponCode=TRY10FREE23105"
+        },
+        {
+            "course": "jQuery Ultimate Course",
+            "URL": "https://www.udemy.com/course/the-learn-jquery-course/",
+            "coupon": "TRY10FREE23105",
+            "fullUrl": "https://www.udemy.com/course/the-learn-jquery-course/?couponCode=TRY10FREE23105"
+        },
+        {
+            "course": "GitLab",
+            "URL": "https://www.udemy.com/course/gitlab-course/",
+            "coupon": "TRY10FREE23105",
+            "fullUrl": "https://www.udemy.com/course/gitlab-course/?couponCode=TRY10FREE23105"
+        },
+        {
+            "course": "React – The Complete Guide with React Hook Redux 2021 in...",
+            "URL": "https://www.udemy.com/course/complete-react-course-w-hooks-react-router-redux-usecontext/",
+            "coupon": "8557F839DA176425724B",
+            "fullUrl": "https://www.udemy.com/course/complete-react-course-w-hooks-react-router-redux-usecontext/?couponCode=8557F839DA176425724B"
+        },
+        {
+            "course": "Complete Progressive Web App Bootcamp",
+            "URL": "https://www.udemy.com/course/complete-progressive-web-app-bootcamp/",
+            "coupon": "5450E5D63A8AE8304A57",
+            "fullUrl": "https://www.udemy.com/course/complete-progressive-web-app-bootcamp/?couponCode=5450E5D63A8AE8304A57"
+        },
+        {
+            "course": "React native Expo for multiplatform mobile app development",
+            "URL": "https://www.udemy.com/course/react-native-expo-for-multiplatform-ios-android-mobile-app-development/",
+            "coupon": "CB72C9EE70B913458ED3",
+            "fullUrl": "https://www.udemy.com/course/react-native-expo-for-multiplatform-ios-android-mobile-app-development/?couponCode=CB72C9EE70B913458ED3"
+        },
+        {
+            "course": "Vue JS and Firebase:Build an iOS and Android chat app (2021)",
+            "URL": "https://www.udemy.com/course/vuejs-and-firebase-build-an-ios-and-android-chat-app/",
+            "coupon": "FE7C05CD29D63B1B6127",
+            "fullUrl": "https://www.udemy.com/course/vuejs-and-firebase-build-an-ios-and-android-chat-app/?couponCode=FE7C05CD29D63B1B6127"
+        },
+        {
+            "course": "New SAT Math Practice Test Explain",
+            "URL": "https://www.udemy.com/course/new-sat-maths-explain/",
+            "coupon": "0CEBBB92C92940268EEE",
+            "fullUrl": "https://www.udemy.com/course/new-sat-maths-explain/?couponCode=0CEBBB92C92940268EEE"
+        },
+        {
+            "course": "Learn All About Bitcoin and Blockchain: Trade Applications",
+            "URL": "https://www.udemy.com/course/learn-all-about-bitcoin-and-blockchain/",
+            "coupon": "3A275F064B58D0FF3A03",
+            "fullUrl": "https://www.udemy.com/course/learn-all-about-bitcoin-and-blockchain/?couponCode=3A275F064B58D0FF3A03"
+        },
+        {
+            "course": "Python Game Development™: Build 5 Professional Games",
+            "URL": "https://www.udemy.com/course/python-game-developmenttm-build-5-professional-games/",
+            "coupon": "B21C748E0A4CBB8395AB",
+            "fullUrl": "https://www.udemy.com/course/python-game-developmenttm-build-5-professional-games/?couponCode=B21C748E0A4CBB8395AB"
+        },
+        {
+            "course": "Presentation Skills Training: Great One on One Presentations",
+            "URL": "https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/",
+            "coupon": "C02D4D6D12CB67D09CBE",
+            "fullUrl": "https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/?couponCode=C02D4D6D12CB67D09CBE"
+        },
+        {
+            "course": "Practical Photography for Absolute Beginners: 9 Courses in 1",
+            "URL": "https://www.udemy.com/course/complete-photography-course/",
+            "coupon": "PHOTO9MARCH2021",
+            "fullUrl": "https://www.udemy.com/course/complete-photography-course/?couponCode=PHOTO9MARCH2021"
+        },
+        {
+            "course": "Learn Method Acting , Characterisation & Monologue Mastery",
+            "URL": "https://www.udemy.com/course/method-acting-and-monologue-mastery-for-male-actors/",
+            "coupon": "DCD3A576E82B450EDF14",
+            "fullUrl": "https://www.udemy.com/course/method-acting-and-monologue-mastery-for-male-actors/?couponCode=DCD3A576E82B450EDF14"
+        },
+        {
+            "course": "Learn Evernote",
+            "URL": "https://www.udemy.com/course/learn-evernote/",
+            "coupon": "TRY10FREE23105",
+            "fullUrl": "https://www.udemy.com/course/learn-evernote/?couponCode=TRY10FREE23105"
+        },
+        {
+            "course": "Visual Studio Code",
+            "URL": "https://www.udemy.com/course/learn-visual-studio-code-v/",
+            "coupon": "TRY10FREE23105",
+            "fullUrl": "https://www.udemy.com/course/learn-visual-studio-code-v/?couponCode=TRY10FREE23105"
+        },
+        {
+            "course": "Google Docs Master Course",
+            "URL": "https://www.udemy.com/course/google-docs-master-course/",
+            "coupon": "TRY10FREE23105",
+            "fullUrl": "https://www.udemy.com/course/google-docs-master-course/?couponCode=TRY10FREE23105"
+        },
+        {
+            "course": "Learn Advanced Bootstrap 4",
+            "URL": "https://www.udemy.com/course/learn-advanced-bootstrap-4/",
+            "coupon": "TRY10FREE23105",
+            "fullUrl": "https://www.udemy.com/course/learn-advanced-bootstrap-4/?couponCode=TRY10FREE23105"
+        },
+        {
+            "course": "Learn Advanced SVG",
+            "URL": "https://www.udemy.com/course/learn-advanced-svg/",
+            "coupon": "TRY10FREE23105",
+            "fullUrl": "https://www.udemy.com/course/learn-advanced-svg/?couponCode=TRY10FREE23105"
+        },
+        {
+            "course": "AWS Services for Solutions Architect Associate [2021]",
+            "URL": "https://www.udemy.com/course/aws-services-for-solutions-architect-associates-course/",
+            "coupon": "FREEMAR2",
+            "fullUrl": "https://www.udemy.com/course/aws-services-for-solutions-architect-associates-course/?couponCode=FREEMAR2"
+        },
+        {
+            "course": "Microsoft Excel Masterclass for Business Managers",
+            "URL": "https://www.udemy.com/course/microsoft-excel-masterclass-complete-and-concise/",
+            "coupon": "MARXV21",
+            "fullUrl": "https://www.udemy.com/course/microsoft-excel-masterclass-complete-and-concise/?couponCode=MARXV21"
+        },
+        {
+            "course": "Python Network Programming for Network Engineers (Python 3)",
+            "URL": "https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/",
+            "coupon": "DAVID500K",
+            "fullUrl": "https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/?couponCode=DAVID500K"
+        },
+        {
+            "course": "Linux for Network Engineers: Practical Linux with GNS3",
+            "URL": "https://www.udemy.com/course/linux-for-network-engineers-practical-linux-with-gns3/",
+            "coupon": "DAVID500K",
+            "fullUrl": "https://www.udemy.com/course/linux-for-network-engineers-practical-linux-with-gns3/?couponCode=DAVID500K"
+        },
+        {
+            "course": "How to read Arabic",
+            "URL": "https://www.udemy.com/course/learn-reading-arabic-in-less-than-one-hour/",
+            "coupon": "FREE123",
+            "fullUrl": "https://www.udemy.com/course/learn-reading-arabic-in-less-than-one-hour/?couponCode=FREE123"
+        },
+        {
+            "course": "Complete WebApplication Penetration Testing Practical C|WAPT",
+            "URL": "https://www.udemy.com/course/complete-webapplication-penetration-testing-practical-cwapt/",
+            "coupon": "SESSION13",
+            "fullUrl": "https://www.udemy.com/course/complete-webapplication-penetration-testing-practical-cwapt/?couponCode=SESSION13"
+        },
+        {
+            "course": "SAP Business Analytics Essential Training",
+            "URL": "https://www.udemy.com/course/sap-bi-bo/",
+            "coupon": "9C095AE9E42262F96E21",
+            "fullUrl": "https://www.udemy.com/course/sap-bi-bo/?couponCode=9C095AE9E42262F96E21"
+        },
+        {
+            "course": "Wireshark: Packet Analysis and Ethical Hacking: Core Skills",
+            "URL": "https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/",
+            "coupon": "DAVID500K",
+            "fullUrl": "https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/?couponCode=DAVID500K"
+        },
+        {
+            "course": "Python GUI Programming With TKinter | Build 10 GUI Projects",
+            "URL": "https://www.udemy.com/course/python-gui-programming-with-tkinter-build-10-gui-projects/",
+            "coupon": "01EBE52ECD96F08DF4FD",
+            "fullUrl": "https://www.udemy.com/course/python-gui-programming-with-tkinter-build-10-gui-projects/?couponCode=01EBE52ECD96F08DF4FD"
+        },
+        {
+            "course": "Shopify Guide: Start your own clothing brand with Shopify",
+            "URL": "https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/",
+            "coupon": "30EBD9EF2444CE6BBBB6",
+            "fullUrl": "https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=30EBD9EF2444CE6BBBB6"
+        },
+        {
+            "course": "Shopify Bootcamp: Increase Your Sales and Conversion rate",
+            "URL": "https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/",
+            "coupon": "AC4D15FDECDF0C89B675",
+            "fullUrl": "https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=AC4D15FDECDF0C89B675"
+        },
+        {
+            "course": "Arduino – Build your own Bionic ARM with Voice Recognition",
+            "URL": "https://www.udemy.com/course/arduino-build-your-own-bionic-arm-with-voice-recognition/",
+            "coupon": "9E154B9031D3B365A4FE",
+            "fullUrl": "https://www.udemy.com/course/arduino-build-your-own-bionic-arm-with-voice-recognition/?couponCode=9E154B9031D3B365A4FE"
+        },
+        {
+            "course": "Complete Python Bootcamp : Go Beginner to Expert in Python 3",
+            "URL": "https://www.udemy.com/course/complete-python-bootcamp-expert-course/",
+            "coupon": "C645838A9712B2F3F74A",
+            "fullUrl": "https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=C645838A9712B2F3F74A"
+        },
+        {
+            "course": "Learn to Build AI assistant like JARVIS using Python",
+            "URL": "https://www.udemy.com/course/jarvis-ai/",
+            "coupon": "C649FBC16C350FC73A93",
+            "fullUrl": "https://www.udemy.com/course/jarvis-ai/?couponCode=C649FBC16C350FC73A93"
+        },
+        {
+            "course": "HTML Learn It From Scratch Course",
+            "URL": "https://www.udemy.com/course/html-learn-it-from-scratch-course/",
+            "coupon": "MASTERMINDS_HTML",
+            "fullUrl": "https://www.udemy.com/course/html-learn-it-from-scratch-course/?couponCode=MASTERMINDS_HTML"
+        },
+        {
+            "course": "The Python Programming For Everyone Immersive Training",
+            "URL": "https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/",
+            "coupon": "D25C524669BBE4B888E7",
+            "fullUrl": "https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/?couponCode=D25C524669BBE4B888E7"
+        },
+        {
+            "course": "Intermediate Python Immersive Training | Boost your career",
+            "URL": "https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/",
+            "coupon": "BC33BD5AC91048A8E296",
+            "fullUrl": "https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/?couponCode=BC33BD5AC91048A8E296"
+        },
+        {
+            "course": "The Python Programming Comprehensive Bootcamp",
+            "URL": "https://www.udemy.com/course/the-python-programming-v39-comprehensive-bootcamp/",
+            "coupon": "DEA92A26F71176387A53",
+            "fullUrl": "https://www.udemy.com/course/the-python-programming-v39-comprehensive-bootcamp/?couponCode=DEA92A26F71176387A53"
+        },
+        {
+            "course": "Python Programming Beyond The Basics & Intermediate Training",
+            "URL": "https://www.udemy.com/course/python-programming-beyond-the-basics-intermediate-training/",
+            "coupon": "AEA3217FA0503D624AC8",
+            "fullUrl": "https://www.udemy.com/course/python-programming-beyond-the-basics-intermediate-training/?couponCode=AEA3217FA0503D624AC8"
+        },
+        {
+            "course": "JavaScript – Basics to Advanced [step by step (2021)]",
+            "URL": "https://www.udemy.com/course/javascript-basics-to-advanced/",
+            "coupon": "FREEMAR2",
+            "fullUrl": "https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEMAR2"
+        },
+        {
+            "course": "The Complete ReactJs Course – Basics to Advanced (2021)",
+            "URL": "https://www.udemy.com/course/react-js-basics-to-advanced/",
+            "coupon": "FREEMAR2",
+            "fullUrl": "https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEMAR2"
+        },
+        {
+            "course": "Python And Flask Framework Complete Course",
+            "URL": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/",
+            "coupon": "EACC8242E41A8E6AC660",
+            "fullUrl": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=EACC8242E41A8E6AC660"
+        },
+        {
+            "course": "Python And Django Framework For Beginners Complete Course",
+            "URL": "https://www.udemy.com/course/python-and-django-for-beginners/",
+            "coupon": "AB1985DD8529A3C9B829",
+            "fullUrl": "https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=AB1985DD8529A3C9B829"
+        },
+        {
+            "course": "YouTube Marketing Empire: The Blueprint to YouTube Marketing",
+            "URL": "https://www.udemy.com/course/youtube-marketing-empire-the-blueprint-to-youtube-marketing/",
+            "coupon": "5B5EDE2FF70C1E5D1D9A",
+            "fullUrl": "https://www.udemy.com/course/youtube-marketing-empire-the-blueprint-to-youtube-marketing/?couponCode=5B5EDE2FF70C1E5D1D9A"
+        },
+        {
+            "course": "Blogging For Beginners: Start a Blog Discover Passive Income",
+            "URL": "https://www.udemy.com/course/blogging-for-beginners-start-a-blog-discover-passive-income/",
+            "coupon": "935DD60631A4BE83C493",
+            "fullUrl": "https://www.udemy.com/course/blogging-for-beginners-start-a-blog-discover-passive-income/?couponCode=935DD60631A4BE83C493"
+        },
+        {
+            "course": "eCommerce Website: Shopify, Dropshipping, Amazon and more.",
+            "URL": "zon-alibaba/",
+            "coupon": "AFED7D576106445DA7D6",
+            "fullUrl": "zon-alibaba/?couponCode=AFED7D576106445DA7D6"
+        },
+        {
+            "course": "Entrepreneurship Empire: Entrepreneur’s Wealth Creation!",
+            "URL": "alth-creation/",
+            "coupon": "D86F1E30884B1CED7D8A",
+            "fullUrl": "alth-creation/?couponCode=D86F1E30884B1CED7D8A"
+        },
+        {
+            "course": "Space Render 2.0: Transform your podcast into videos in 2021",
+            "URL": "https://www.udemy.com/course/space-render-20-transform-your-podcast-into-videos/",
+            "coupon": "68DF164D9BCFB7D6CABC",
+            "fullUrl": "https://www.udemy.com/course/space-render-20-transform-your-podcast-into-videos/?couponCode=68DF164D9BCFB7D6CABC"
+        },
+        {
+            "course": "Practical Web Development: 22 Courses in 1",
+            "URL": "https://www.udemy.com/course/the-complete-web-development-course/",
+            "coupon": "WEB22MARCH2021",
+            "fullUrl": "https://www.udemy.com/course/the-complete-web-development-course/?couponCode=WEB22MARCH2021"
+        },
+        {
+            "course": "Super way to Learn Arduino | Creative",
+            "URL": "https://www.udemy.com/course/super-way-to-learn-arduino-creative/",
+            "coupon": "FREE3ROBOTICS",
+            "fullUrl": "https://www.udemy.com/course/super-way-to-learn-arduino-creative/?couponCode=FREE3ROBOTICS"
+        },
+        {
+            "course": "Practical Microsoft Excel Masterclass",
+            "URL": "https://www.udemy.com/course/practical-microsoft-excel-masterclass/",
+            "coupon": "6989E94CFD9F6765FCC4",
+            "fullUrl": "https://www.udemy.com/course/practical-microsoft-excel-masterclass/?couponCode=6989E94CFD9F6765FCC4"
+        },
+        {
+            "course": "Make Money Writing: 2021 Extreme Edition",
+            "URL": "https://www.udemy.com/course/make-money-writing-your-ultimate-guide-to-earn-as-a-writer/",
+            "coupon": "MAKEMONEYWWRITING",
+            "fullUrl": "https://www.udemy.com/course/make-money-writing-your-ultimate-guide-to-earn-as-a-writer/?couponCode=MAKEMONEYWWRITING"
+        },
+        {
+            "course": "SAP Basis Essential Training",
+            "URL": "https://www.udemy.com/course/sap-basis-erp/",
+            "coupon": "1526D11637411170948F",
+            "fullUrl": "https://www.udemy.com/course/sap-basis-erp/?couponCode=1526D11637411170948F"
+        },
+        {
+            "course": "Java Programming: Complete Beginner to Advanced",
+            "URL": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/",
+            "coupon": "87357C47238",
+            "fullUrl": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=87357C47238"
+        },
+        {
+            "course": "Ms Excel/Excel 2021 – The Complete Introduction to Excel",
+            "URL": "https://www.udemy.com/course/microsoft-excel-the-complete-intro/",
+            "coupon": "21F93DE7F2BBED95F992",
+            "fullUrl": "https://www.udemy.com/course/microsoft-excel-the-complete-intro/?couponCode=21F93DE7F2BBED95F992"
+        },
+        {
+            "course": "Deep Web- The complete Introduction to the hidden web",
+            "URL": "https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/",
+            "coupon": "7B3A2ADC5279D7EE6CC8",
+            "fullUrl": "https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=7B3A2ADC5279D7EE6CC8"
+        },
+        {
+            "course": "Photo Editing With Free Software",
+            "URL": "https://www.udemy.com/course/photo-editing-with-free-software/",
+            "coupon": "6AF0E9938F470DD9EB8C",
+            "fullUrl": "https://www.udemy.com/course/photo-editing-with-free-software/?couponCode=6AF0E9938F470DD9EB8C"
+        },
+        {
+            "course": "Complete Linux Security & Hardening with Practical Examples",
+            "URL": "https://www.udemy.com/course/complete-linux-security-hardening-with-practical-examples/",
+            "coupon": "ONETIMEDEAL",
+            "fullUrl": "https://www.udemy.com/course/complete-linux-security-hardening-with-practical-examples/?couponCode=ONETIMEDEAL"
+        },
+        {
+            "course": "HTML, JavaScript, & Bootstrap – Certification Course",
+            "URL": "https://www.udemy.com/course/html-javascript-bootstrap-certification-course/",
+            "coupon": "YOUACCEL52338",
+            "fullUrl": "https://www.udemy.com/course/html-javascript-bootstrap-certification-course/?couponCode=YOUACCEL52338"
+        },
+        {
+            "course": "HTML, CSS, & JavaScript – Certification Course for Beginners",
+            "URL": "https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/",
+            "coupon": "YOUACCEL52338",
+            "fullUrl": "https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL52338"
+        },
+        {
+            "course": "Bootstrap & jQuery – Certification Course for Beginners",
+            "URL": "https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/",
+            "coupon": "YOUACCEL52338",
+            "fullUrl": "https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL52338"
+        },
+        {
+            "course": "SQL Bootcamp – Hands-On Exercises – SQLite – Part I",
+            "URL": "https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/",
+            "coupon": "FREECODE",
+            "fullUrl": "https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/?couponCode=FREECODE"
+        },
+        {
+            "course": "Network Ethical Hacking for beginners (Kali 2020 – Hands-on)",
+            "URL": "https://www.udemy.com/course/network-ethical-hacking/",
+            "coupon": "EFE2F70DA4B1A055953B",
+            "fullUrl": "https://www.udemy.com/course/network-ethical-hacking/?couponCode=EFE2F70DA4B1A055953B"
+        },
+        {
+            "course": "Bootstrap From Scratch – Fast and Responsive Web Development",
+            "URL": "https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/",
+            "coupon": "5BB2FEEE8AB4B36FF0CB",
+            "fullUrl": "https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/?couponCode=5BB2FEEE8AB4B36FF0CB"
+        },
+        {
+            "course": "Convolutional Neural Networks in Python: CNN Computer Vision",
+            "URL": "https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/",
+            "coupon": "MARXV21",
+            "fullUrl": "https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/?couponCode=MARXV21"
+        },
+        {
+            "course": "Setup a Virtual Web Server using Linode or Digital Ocean",
+            "URL": "https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/",
+            "coupon": "YOUACCEL52338",
+            "fullUrl": "https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?couponCode=YOUACCEL52338"
+        },
+        {
+            "course": "NGINX, Apache, SSL Encryption – Certification Course",
+            "URL": "https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/",
+            "coupon": "YOUACCEL52338",
+            "fullUrl": "https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL52338"
+        },
+        {
+            "course": "Data Science Real World Projects in Python",
+            "URL": "https://www.udemy.com/course/data-science-real-world-projects-in-python-x/",
+            "coupon": "MARCH_MID",
+            "fullUrl": "https://www.udemy.com/course/data-science-real-world-projects-in-python-x/?couponCode=MARCH_MID"
+        },
+        {
+            "course": "Complete Responsive Web Development: 4 courses in 1",
+            "URL": "https://www.udemy.com/course/responsive-web-development/",
+            "coupon": "WEB4MARCHF2021",
+            "fullUrl": "https://www.udemy.com/course/responsive-web-development/?couponCode=WEB4MARCHF2021"
+        },
+        {
+            "course": "IP Addressing and Subnetting – Zero to Hero",
+            "URL": "https://www.udemy.com/course/ip-addressing-zero-to-hero/",
+            "coupon": "FREE_MARCH",
+            "fullUrl": "https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=FREE_MARCH"
+        },
+        {
+            "course": "Automate the boring stuff using Java Programming",
+            "URL": "https://www.udemy.com/course/automate-the-boring-stuff-using-java-programming/",
+            "coupon": "F9D299C863A69557EA6F",
+            "fullUrl": "https://www.udemy.com/course/automate-the-boring-stuff-using-java-programming/?couponCode=F9D299C863A69557EA6F"
+        },
+        {
+            "course": "Introduction to Domain Names and Web Hosting – Quick Guide",
+            "URL": "https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/",
+            "coupon": "YOUACCEL52338",
+            "fullUrl": "https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/?couponCode=YOUACCEL52338"
+        },
+        {
+            "course": "Create a Members Only Blog using PHP, MySQL, & AJAX",
+            "URL": "https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/",
+            "coupon": "YOUACCEL52338",
+            "fullUrl": "https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL52338"
+        },
+        {
+            "course": "Learn Advanced Python Programming",
+            "URL": "https://www.udemy.com/course/learn-advanced-python-programming-r/",
+            "coupon": "07F17C68E68FCBAAF3D8",
+            "fullUrl": "https://www.udemy.com/course/learn-advanced-python-programming-r/?couponCode=07F17C68E68FCBAAF3D8"
+        },
+        {
+            "course": "The Ultimate CSS – Best Practise on Animations & Effects",
+            "URL": "https://www.udemy.com/course/the-ultimate-css-best-practise-on-animations-effects/",
+            "coupon": "MAR-3OFF",
+            "fullUrl": "https://www.udemy.com/course/the-ultimate-css-best-practise-on-animations-effects/?couponCode=MAR-3OFF"
+        },
+        {
+            "course": "Business & Technical Writing Immersion",
+            "URL": "https://www.udemy.com/course/business-writing-immersion/",
+            "coupon": "BTW100",
+            "fullUrl": "https://www.udemy.com/course/business-writing-immersion/?couponCode=BTW100"
+        },
+        {
+            "course": "Introduction to Forex- learn to trade forex by yourself",
+            "URL": "https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/",
+            "coupon": "10A47B23AF9D39DD7749",
+            "fullUrl": "https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=10A47B23AF9D39DD7749"
+        },
+        {
+            "course": "Microsoft Excel – Learn MS EXCEL For DATA Analysis",
+            "URL": "https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/",
+            "coupon": "9ADDA53BAF1F58A50288",
+            "fullUrl": "https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=9ADDA53BAF1F58A50288"
+        },
+        {
+            "course": "Search Engine Optimization Complete Specialization Course",
+            "URL": "https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/",
+            "coupon": "PREHOLIOFFER2021",
+            "fullUrl": "https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/?couponCode=PREHOLIOFFER2021"
+        },
+        {
+            "course": "Adobe Photoshop CC Fundamentals and Essentials Training",
+            "URL": "https://www.udemy.com/course/adobe-photoshop-cc-principal-essential-course-for-beginners/",
+            "coupon": "PHOTOSHOP_FREE",
+            "fullUrl": "https://www.udemy.com/course/adobe-photoshop-cc-principal-essential-course-for-beginners/?couponCode=PHOTOSHOP_FREE"
+        },
+        {
+            "course": "Complete Python Bootcamp | Deep Learning Into Python Coding",
+            "URL": "https://www.udemy.com/course/complete-python-bootcamp-deep-learning-into-python-coding/",
+            "coupon": "A8758A15807F2581EDEC",
+            "fullUrl": "https://www.udemy.com/course/complete-python-bootcamp-deep-learning-into-python-coding/?couponCode=A8758A15807F2581EDEC"
+        },
+        {
+            "course": "Beginner’s Guide To Creating Basic Logos With Free Software",
+            "URL": "",
+            "coupon": "096396235BFBC1616350",
+            "fullUrl": "?couponCode=096396235BFBC1616350"
+        },
+        {
+            "course": "Microsoft Excel for Finance, Accounting & Financial Analysis",
+            "URL": "https://www.udemy.com/course/excel-for-business-users/",
+            "coupon": "5242235F9D354D75B85A",
+            "fullUrl": "https://www.udemy.com/course/excel-for-business-users/?couponCode=5242235F9D354D75B85A"
+        },
+        {
+            "course": "Microsoft Excel for Scientists and Engineers",
+            "URL": "https://www.udemy.com/course/microsoft-excel-for-scientists-and-engineers/",
+            "coupon": "FREEMARCH",
+            "fullUrl": "https://www.udemy.com/course/microsoft-excel-for-scientists-and-engineers/?couponCode=FREEMARCH"
+        },
+        {
+            "course": "Mastering Architectural, Night & HDR Photography",
+            "URL": "https://www.udemy.com/course/mastering-architectural-night-hdr-photography/",
+            "coupon": "HDRMARCH2021",
+            "fullUrl": "https://www.udemy.com/course/mastering-architectural-night-hdr-photography/?couponCode=HDRMARCH2021"
+        },
+        {
+            "course": "Scrum Fundamentals for Scrum Master and Agile Projects- 2020",
+            "URL": "https://www.udemy.com/course/scrum-genman/",
+            "coupon": "SCRUMMARCHXIV",
+            "fullUrl": "https://www.udemy.com/course/scrum-genman/?couponCode=SCRUMMARCHXIV"
+        },
+        {
+            "course": "SQLite & SQL – Pirate Adventure with Shady Deals & Rum!",
+            "URL": "https://www.udemy.com/course/pirate-adventure-sql-sqlite-shady-deals-and-rum/",
+            "coupon": "BETHEFIRST",
+            "fullUrl": "https://www.udemy.com/course/pirate-adventure-sql-sqlite-shady-deals-and-rum/?couponCode=BETHEFIRST"
+        },
+        {
+            "course": "Python Complete Course For Python Beginners",
+            "URL": "https://www.udemy.com/course/python-complete-course-for-beginners/",
+            "coupon": "74BDCEB508DCE745CDFE",
+            "fullUrl": "https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=74BDCEB508DCE745CDFE"
+        },
+        {
+            "course": "Accounting–Financial Accounting Total-Beginners to Advanced",
+            "URL": "https://www.udemy.com/course/financial-accounting-accounting-cycle/",
+            "coupon": "ABA2A360FEF6FF422CF8",
+            "fullUrl": "https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=ABA2A360FEF6FF422CF8"
+        },
+        {
+            "course": "Python And Flask Framework Complete Course For Beginners",
+            "URL": "https://www.udemy.com/course/python-for-beginners-course-/",
+            "coupon": "C7D33E5941472815F871",
+            "fullUrl": "https://www.udemy.com/course/python-for-beginners-course-/?couponCode=C7D33E5941472815F871"
+        },
+        {
+            "course": "Stress Management: Images of Resilience",
+            "URL": "https://www.udemy.com/course/stress-management-and-resilience/",
+            "coupon": "3A3CE84B1334DC6B353A",
+            "fullUrl": "https://www.udemy.com/course/stress-management-and-resilience/?couponCode=3A3CE84B1334DC6B353A"
+        },
+        {
+            "course": "Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021",
+            "URL": "https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/",
+            "coupon": "LEARN_JAVASCRIPT",
+            "fullUrl": "https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=LEARN_JAVASCRIPT"
+        },
+        {
+            "course": "Excel – Microsoft Excel Beginner to Advanced [2021]",
+            "URL": "https://www.udemy.com/course/excel-beginner-to-advanced/",
+            "coupon": "FREEBIESGLOBAL-E3.2",
+            "fullUrl": "https://www.udemy.com/course/excel-beginner-to-advanced/?couponCode=FREEBIESGLOBAL-E3.2"
+        },
+        {
+            "course": "Serverless Python Application on Google Cloud",
+            "URL": "https://www.udemy.com/course/serverless-python-applications-on-google-cloud/",
+            "coupon": "E039B76F8F8680B0CB93",
+            "fullUrl": "https://www.udemy.com/course/serverless-python-applications-on-google-cloud/?couponCode=E039B76F8F8680B0CB93"
+        },
+        {
+            "course": "How to Make Passive Income With Bitcoin Lending",
+            "URL": "https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/",
+            "coupon": "MARSWRWNTRAS2021",
+            "fullUrl": "https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/?couponCode=MARSWRWNTRAS2021"
+        },
+        {
+            "course": "Complete Video Production, Marketing, & YouTube Course 2021",
+            "URL": "https://www.udemy.com/course/complete-video-marketing-course/",
+            "coupon": "TOPVIDEO111111111",
+            "fullUrl": "https://www.udemy.com/course/complete-video-marketing-course/?couponCode=TOPVIDEO111111111"
+        },
+        {
+            "course": "Coping Skills: For A Better Life!",
+            "URL": "https://www.udemy.com/course/coping-skills-tools-training-stress/",
+            "coupon": "FB2871F187E1D8DFEB0A",
+            "fullUrl": "https://www.udemy.com/course/coping-skills-tools-training-stress/?couponCode=FB2871F187E1D8DFEB0A"
+        },
+        {
+            "course": "Adobe Premiere Pro CC Essential Video Editing Zero To Hero",
+            "URL": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/",
+            "coupon": "FREE_PREMIERE_PRO21",
+            "fullUrl": "https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=FREE_PREMIERE_PRO21"
+        },
+        {
+            "course": "How To Start A T-Shirt Business Online",
+            "URL": "https://www.udemy.com/course/how-to-start-a-t-shirt-business-online/",
+            "coupon": "MARCH1STAYHOME",
+            "fullUrl": "https://www.udemy.com/course/how-to-start-a-t-shirt-business-online/?couponCode=MARCH1STAYHOME"
+        },
+        {
+            "course": "Google AdSense & YouTube: Everything You Need to Know",
+            "URL": "https://www.udemy.com/course/google-adsense-youtube-everything-you-need-to-know/",
+            "coupon": "MARCH1STAYHOME",
+            "fullUrl": "https://www.udemy.com/course/google-adsense-youtube-everything-you-need-to-know/?couponCode=MARCH1STAYHOME"
+        },
+        {
+            "course": "WordPress: Make A Professional Website With No Coding",
+            "URL": "https://www.udemy.com/course/wordpress-make-a-professional-website-with-no-coding/",
+            "coupon": "MARCH1STAYHOME",
+            "fullUrl": "https://www.udemy.com/course/wordpress-make-a-professional-website-with-no-coding/?couponCode=MARCH1STAYHOME"
+        },
+        {
+            "course": "Microsoft Office Tips and Tricks: Get in Pro Mode",
+            "URL": "https://www.udemy.com/course/microsoft-office-tips-and-tricks-get-in-pro-mode-in-no-time-word-excel/",
+            "coupon": "MARCH1STAYHOME",
+            "fullUrl": "https://www.udemy.com/course/microsoft-office-tips-and-tricks-get-in-pro-mode-in-no-time-word-excel/?couponCode=MARCH1STAYHOME"
+        },
+        {
+            "course": "Python 3 Master Course for 2021",
+            "URL": "https://www.udemy.com/course/python-3-master-course-for-2021/",
+            "coupon": "TRY10FREE32104",
+            "fullUrl": "https://www.udemy.com/course/python-3-master-course-for-2021/?couponCode=TRY10FREE32104"
+        },
+        {
+            "course": "Adobe XD CC 2020",
+            "URL": "https://www.udemy.com/course/adobe-xd-cc-2020-master-course/",
+            "coupon": "TRY10FREE32104",
+            "fullUrl": "https://www.udemy.com/course/adobe-xd-cc-2020-master-course/?couponCode=TRY10FREE32104"
+        },
+        {
+            "course": "Adobe Creative Cloud 2020 Master Course",
+            "URL": "https://www.udemy.com/course/adobe-creative-cloud-2020-master-course/",
+            "coupon": "TRY10FREE32104",
+            "fullUrl": "https://www.udemy.com/course/adobe-creative-cloud-2020-master-course/?couponCode=TRY10FREE32104"
+        },
+        {
+            "course": "Learn Flowcharting. Be a Professional programmer!",
+            "URL": "https://www.udemy.com/course/flowcharting-flowchart-learn-flowcharting-be-a-professional-programmer/",
+            "coupon": "MARCH1STAYHOME",
+            "fullUrl": "https://www.udemy.com/course/flowcharting-flowchart-learn-flowcharting-be-a-professional-programmer/?couponCode=MARCH1STAYHOME"
+        },
+        {
+            "course": "Create Your Own Augmented Reality Application",
+            "URL": "https://www.udemy.com/course/augmented-reality-merge-cube-create-your-augmented-reality-application/",
+            "coupon": "MARCH1STAYHOME",
+            "fullUrl": "https://www.udemy.com/course/augmented-reality-merge-cube-create-your-augmented-reality-application/?couponCode=MARCH1STAYHOME"
+        },
+        {
+            "course": "Complete WordPress Website Developer Course",
+            "URL": "https://www.udemy.com/course/the-complete-wordpress-developer-course-w/",
+            "coupon": "4F67AEE70323E9BC5B43",
+            "fullUrl": "https://www.udemy.com/course/the-complete-wordpress-developer-course-w/?couponCode=4F67AEE70323E9BC5B43"
+        },
+        {
+            "course": "Browser Tasks Automation: Save Time, Money and Efforts",
+            "URL": "https://www.udemy.com/course/web-browser-tasks-automation-save-time-money-and-efforts/",
+            "coupon": "MARCH1STAYHOME",
+            "fullUrl": "https://www.udemy.com/course/web-browser-tasks-automation-save-time-money-and-efforts/?couponCode=MARCH1STAYHOME"
+        },
+        {
+            "course": "Accounting-Bonds Payable, Notes Payable, Liabilities",
+            "URL": "https://www.udemy.com/course/accounting-bonds-payable-notes-payable-liabilities/",
+            "coupon": "49593D7F3EE12065999C",
+            "fullUrl": "https://www.udemy.com/course/accounting-bonds-payable-notes-payable-liabilities/?couponCode=49593D7F3EE12065999C"
+        },
+        {
+            "course": "Decision making masterclass",
+            "URL": "https://www.udemy.com/course/decision-making-masterclass/",
+            "coupon": "MAR2021",
+            "fullUrl": "https://www.udemy.com/course/decision-making-masterclass/?couponCode=MAR2021"
+        },
+        {
+            "course": "Top 5 Awesome Raspberry Pi Projects – Do It Yourself 2021",
+            "URL": "https://www.udemy.com/course/cool-raspberry-pi-projects/",
+            "coupon": "UNLIMITED",
+            "fullUrl": "https://www.udemy.com/course/cool-raspberry-pi-projects/?couponCode=UNLIMITED"
+        },
+        {
+            "course": "Practical Database Course for Beginners : 6 courses in 1",
+            "URL": "https://www.udemy.com/course/database-course/couponCode=DBJULY2020",
+            "coupon": "DB6MARCHF2021",
+            "fullUrl": "https://www.udemy.com/course/database-course/couponCode=DBJULY2020?couponCode=DB6MARCHF2021"
+        },
+        {
+            "course": "MERN Stack Master Course – Building your own Instagram",
+            "URL": "https://www.udemy.com/course/mern-stack-master-course-building-your-own-instagram/",
+            "coupon": "FREELEARNING",
+            "fullUrl": "https://www.udemy.com/course/mern-stack-master-course-building-your-own-instagram/?couponCode=FREELEARNING"
+        },
+        {
+            "course": "Operations Management: Supply Chains, Products and Services",
+            "URL": "https://www.udemy.com/course/operations-management-supply-chains-products-and-services/",
+            "coupon": "83932A50D7BD7081EBBB",
+            "fullUrl": "https://www.udemy.com/course/operations-management-supply-chains-products-and-services/?couponCode=83932A50D7BD7081EBBB"
+        },
+        {
+            "course": "C# .NET tutorial for complete beginners – Masterclass in 3h",
+            "URL": "https://www.udemy.com/course/c-net-tutorial-for-complete-beginners-masterclass-in-3h/",
+            "coupon": "FREE-CSHARP-COURSE",
+            "fullUrl": "https://www.udemy.com/course/c-net-tutorial-for-complete-beginners-masterclass-in-3h/?couponCode=FREE-CSHARP-COURSE"
+        },
+        {
+            "course": "3 Days Linux Administration Course",
+            "URL": "https://www.udemy.com/course/perfect-3-days-linux-course/",
+            "coupon": "ONETIMEDEAL",
+            "fullUrl": "https://www.udemy.com/course/perfect-3-days-linux-course/?couponCode=ONETIMEDEAL"
+        },
+        {
+            "course": "Mobile Security: Reverse Engineer Android Apps From Scratch",
+            "URL": "https://www.udemy.com/course/android-reverse-engineering-from-scratch/",
+            "coupon": "FREE2021",
+            "fullUrl": "https://www.udemy.com/course/android-reverse-engineering-from-scratch/?couponCode=FREE2021"
+        },
+        {
+            "course": "Functional Programming + Lambdas, Method References, Streams",
+            "URL": "https://www.udemy.com/course/functional-programming-learnit/",
+            "coupon": "FP_MARCH_FREE_2",
+            "fullUrl": "https://www.udemy.com/course/functional-programming-learnit/?couponCode=FP_MARCH_FREE_2"
+        },
+        {
+            "course": "Intro To Basic Video Creation",
+            "URL": "https://www.udemy.com/course/intro-to-basic-video-creation/",
+            "coupon": "1E29B756CCD46D6DDD43",
+            "fullUrl": "https://www.udemy.com/course/intro-to-basic-video-creation/?couponCode=1E29B756CCD46D6DDD43"
+        },
+        {
+            "course": "Git from Basics to Advanced: Practical Guide for Developers",
+            "URL": "https://www.udemy.com/course/git-learnit/",
+            "coupon": "GIT_MARCH_FREE_2",
+            "fullUrl": "https://www.udemy.com/course/git-learnit/?couponCode=GIT_MARCH_FREE_2"
+        },
+        {
+            "course": "The Complete Guide to ASP.NET Core (.NET 5) Web API",
+            "URL": "https://www.udemy.com/course/the-complete-guide-to-aspnet-web-api/",
+            "coupon": "DOTNETHOW",
+            "fullUrl": "https://www.udemy.com/course/the-complete-guide-to-aspnet-web-api/?couponCode=DOTNETHOW"
+        },
+        {
+            "course": "Advanced Artificial Intelligence in Digital Marketing Course",
+            "URL": "https://www.udemy.com/course/artificial-intelligence-in-digital-marketing-part-2/",
+            "coupon": "8CF9A1A12E3F72224332",
+            "fullUrl": "https://www.udemy.com/course/artificial-intelligence-in-digital-marketing-part-2/?couponCode=8CF9A1A12E3F72224332"
+        },
+        {
+            "course": "Extreme Automation in Digital Marketing (2021 Edition)",
+            "URL": "https://www.udemy.com/course/extreme-automation-in-digital-marketing-certification/",
+            "coupon": "F66759131079949F861B",
+            "fullUrl": "https://www.udemy.com/course/extreme-automation-in-digital-marketing-certification/?couponCode=F66759131079949F861B"
+        },
+        {
+            "course": "eCommerce Marketing Course (2021 Edition)",
+            "URL": "https://www.udemy.com/course/ecommerce-marketing-certification/",
+            "coupon": "97EF86383285AF18CD39",
+            "fullUrl": "https://www.udemy.com/course/ecommerce-marketing-certification/?couponCode=97EF86383285AF18CD39"
+        },
+        {
+            "course": "The Internet of Things (IoT): 2021 Trends and the Future",
+            "URL": "https://www.udemy.com/course/the-internet-of-things-iot-2020-trends-and-the-future/",
+            "coupon": "5900F63338FA39CB3977",
+            "fullUrl": "https://www.udemy.com/course/the-internet-of-things-iot-2020-trends-and-the-future/?couponCode=5900F63338FA39CB3977"
+        },
+        {
+            "course": "‘Campus To Corporate’ With Job Interview & Resume Guide",
+            "URL": "https://www.udemy.com/course/career-hacking-campus-to-corporate-with-complte-resume-guide/",
+            "coupon": "CAREERCOACHING2021",
+            "fullUrl": "https://www.udemy.com/course/career-hacking-campus-to-corporate-with-complte-resume-guide/?couponCode=CAREERCOACHING2021"
+        },
+        {
+            "course": "Stock Trading Momentum Based Strategies1- Technical Analysis",
+            "URL": "https://www.udemy.com/course/momentum-indicators-rsi-stoch-williamr-tsi-mfi/",
+            "coupon": "1MAR21",
+            "fullUrl": "https://www.udemy.com/course/momentum-indicators-rsi-stoch-williamr-tsi-mfi/?couponCode=1MAR21"
+        },
+        {
+            "course": "English language basics for beginners",
+            "URL": "https://www.udemy.com/course/english-language-basics-for-beginners/",
+            "coupon": "MARCH13",
+            "fullUrl": "https://www.udemy.com/course/english-language-basics-for-beginners/?couponCode=MARCH13"
+        },
+        {
+            "course": "Object-Oriented Programming – From Basics to Advance (Java)",
+            "URL": "https://www.udemy.com/course/oop-learnit/",
+            "coupon": "OOP_MARCH_FREE_2",
+            "fullUrl": "https://www.udemy.com/course/oop-learnit/?couponCode=OOP_MARCH_FREE_2"
+        },
+        {
+            "course": "HTML, CSS, & Bootstrap – Certification Course for Beginners",
+            "URL": "https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/",
+            "coupon": "YOUACCEL46502",
+            "fullUrl": "https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/?couponCode=YOUACCEL46502"
+        },
+        {
+            "course": "Python Bootcamp 2021 Build 15 working Applications and Games",
+            "URL": "https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/",
+            "coupon": "MARCH02",
+            "fullUrl": "https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=MARCH02"
+        },
+        {
+            "course": "Hands on Python3 Regular Expressions for Absolute Beginners",
+            "URL": "https://www.udemy.com/course/hands-on-python3-regular-expression-2020/",
+            "coupon": "3B9785536CF095B52B28",
+            "fullUrl": "https://www.udemy.com/course/hands-on-python3-regular-expression-2020/?couponCode=3B9785536CF095B52B28"
+        },
+        {
+            "course": "Python-3 Boot Camp in GUI automation for absolute beginners",
+            "URL": "https://www.udemy.com/course/python-3-boot-camp-in-gui-automation-for-absolute-beginners/",
+            "coupon": "C507437748D0A1D391AA",
+            "fullUrl": "https://www.udemy.com/course/python-3-boot-camp-in-gui-automation-for-absolute-beginners/?couponCode=C507437748D0A1D391AA"
+        },
+        {
+            "course": "Java from Zero to First Job: Part 1 – Practical Guide",
+            "URL": "https://www.udemy.com/course/java-development-for-beginners-learnit/",
+            "coupon": "JAVA_MARCH_FREE_2",
+            "fullUrl": "https://www.udemy.com/course/java-development-for-beginners-learnit/?couponCode=JAVA_MARCH_FREE_2"
         }
     ]
 }
